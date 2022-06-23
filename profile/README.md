@@ -26,4 +26,4 @@
 
 <!--❮ Images ❯----------------------------------------------------------------->
 
-[Banner]: Banner.png
+[Banner]: https://github.com/Daeton/.GitHub/blob/main/profile/Banner.png
